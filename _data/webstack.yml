@@ -58,6 +58,14 @@
       url: https://www.mexc.com
       description: 抹茶交易所，交易费率低
     
+- name: 云服务器
+  icon: linecons-user
+  links:
+    - title: Vercel
+      logo: /assets/images/logos/vercel.png
+      url: https://vercel.com
+      description: 免费docker容器
+      
 - name: 在线工具
   icon: linecons-user
   links:
