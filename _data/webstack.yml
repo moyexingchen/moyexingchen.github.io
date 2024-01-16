@@ -59,7 +59,7 @@
       description: 抹茶交易所，交易费率低
     
 - name: 云服务器
-  icon: linecons-user
+  icon: linecons-cloud
   links:
     - title: Vercel
       logo: /assets/images/logos/vercel.png
@@ -67,7 +67,7 @@
       description: 免费docker容器
       
 - name: 在线工具
-  icon: linecons-user
+  icon: linecons-inbox
   links:
     - title: Canvas
       logo: /assets/images/logos/canvas.png
