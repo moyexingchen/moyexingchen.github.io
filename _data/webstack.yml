@@ -75,7 +75,7 @@
       description: 在线设计平台
     
 - name: 图片素材
-  icon: linecons-thumbs-up
+  icon: linecons-photo
   links:
   - title:  freepik
     logo: /assets/images/logos/freepik.png
