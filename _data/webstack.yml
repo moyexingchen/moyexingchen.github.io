@@ -1,51 +1,83 @@
 - name: AI工具集
   icon: linecons-star
   links: 
-  - title: ChatGPT
-    logo: /assets/images/logos/chatgpt.png
-    url: https://chat.openai.com/chat
-    description: 全球领先的AI聊天机器人
-  - title: BingAI
-    logo: /assets/images/logos/bingai.png
-    url: https://wwbing.wangdu.site/web
-    description: 微软AI聊天机器人
+    - title: ChatGPT
+      logo: /assets/images/logos/chatgpt.png
+      url: https://chat.openai.com/chat
+      description: 全球领先的AI聊天机器人
+    - title: BingAI
+      logo: /assets/images/logos/bingai.png
+      url: https://wwbing.wangdu.site/web
+      description: 微软AI聊天机器人
+    - title: Claude
+      logo: /assets/images/logos/claude.png
+      url: https://claude.ai/chats
+      description: AI聊天新秀
+    - title: Bard
+      logo: /assets/images/logos/bard.png
+      url: https://bard.google.com
+      description: 谷歌AI聊天机器人
+    - title: ClipDrop
+      logo: /assets/images/logos/clipdrop.png
+      url: https://clipdrop.co/stable-doodle
+      description: AI绘画工具
       
 - name: 社交通迅
   icon: linecons-doc
   links: 
-  - title: 雷锋网
-    logo: /assets/images/logos/leiphone.png
-    url: https://www.leiphone.com/
-    description: 人工智能和智能硬件领域的互联网科技媒体
+    - title: Facebook
+      logo: /assets/images/logos/facebook.jpeg
+      url: https://www.facebook.com
+      description: 全球知名社交平台（脸书）
+    - title: X
+      logo: /assets/images/logos/x.webp
+      url: https://twitter.com/?lang=zh
+      description: 原名Twitter（推特）
+    - title: Instagram
+      logo: /assets/images/logos/instagram.png
+      url: https://www.instagram.com
+      description: 海外著名的图片社交平台
+    - title: Telegram
+      logo: /assets/images/logos/telegram.jpeg
+      url: https://web.telegram.org
+      description: 电报网页版
+    - title: Google Voice
+      logo: /assets/images/logos/googleVoice.png
+      url: https://voice.google.com
+      description: 谷歌虚拟电话
       
 - name: 加密货币
   icon: linecons-diamond
   links:
-  - title: Producthunt
-    logo: /assets/images/logos/producthunt.png
-    url: https://www.producthunt.com/
-    description: 发现新鲜有趣的产品
+    - title: 欧易OKX
+      logo: /assets/images/logos/okx.jpeg
+      url: https://www.okx.com
+      description: 支持中国大陆KYC认证的交易所
+    - title: MEXC
+      logo: /assets/images/logos/mexc.png
+      url: https://www.mexc.com
+      description: 抹茶交易所，交易费率低
     
 - name: 在线工具
   icon: linecons-user
   links:
-  - title: Producthunt
-    logo: /assets/images/logos/producthunt.png
-    url: https://www.producthunt.com/
-    description: 发现新鲜有趣的产品
+    - title: Canvas
+      logo: /assets/images/logos/canvas.png
+      url: https://www.canva.com
+      description: 在线设计平台
     
 - name: 图片素材
   icon: linecons-thumbs-up
   links:
-  - title: Producthunt
-    logo: /assets/images/logos/producthunt.png
-    url: https://www.producthunt.com/
-    description: 发现新鲜有趣的产品
+  - title:  freepik
+    logo: /assets/images/logos/freepik.png
+    url: https://www.freepik.com
+    description: 基于素材的搜索引擎站点
     
 - name: 软件下载
   icon: linecons-lightbulb
   links:
-  - title: Producthunt
-    logo: /assets/images/logos/producthunt.png
-    url: https://www.producthunt.com/
-    description: 发现新鲜有趣的产品
+  - title: 软仓
+    logo: /assets/images/logos/ruancang.png
+    url: https://www.ruancang.net
+    description: 包含Adobe全家桶等各种专业软件的免费版
