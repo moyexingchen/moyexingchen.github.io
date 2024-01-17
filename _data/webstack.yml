@@ -64,6 +64,14 @@
     - title: Vercel
       logo: /assets/images/logos/vercel.png
       url: https://vercel.com
+      description: 免费docker容器，国内访问快
+    - title: netlify
+      logo: /assets/images/logos/netlify.png
+      url: https://www.netlify.com
+      description: 免费docker容器
+    - title: zeabur
+      logo: /assets/images/logos/zeabur.png
+      url: https://zeabur.com
       description: 免费docker容器
       
 - name: 在线工具
