@@ -46,7 +46,7 @@
       url: https://voice.google.com
       description: 谷歌虚拟电话
       
-- name: 加密货币
+- name: 币交易所
   icon: linecons-diamond
   links:
     - title: 欧易OKX
@@ -58,7 +58,7 @@
       url: https://www.mexc.com/register?inviteCode=1y3oH
       description: 抹茶交易所，交易费率低
     - title: 币安
-      logo: /assets/images/logos/mexc.png
+      logo: /assets/images/logos/binance.png
       url: https://accounts.binance.com/register?ref=960102593
       description: 全球性交易所，排名第一
     
