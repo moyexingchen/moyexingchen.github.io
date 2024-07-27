@@ -69,7 +69,13 @@
       logo: /assets/images/logos/bybit.png
       url: https://www.bybit.com/invite?ref=OW6DQBD
       description: 加密货币衍生品平台
-    
+    - name: 海外券商
+      icon: linecons-diamond
+      links:
+        - title: 盈透证券
+          logo: /assets/images/logos/ibkr.png
+          url: https://ibkr.com/referral/zhongjin270
+          description: 港美股券商，身份证注册，无最低资金要求
 - name: 云服务器
   icon: linecons-cloud
   links:
