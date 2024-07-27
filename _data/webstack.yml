@@ -55,8 +55,12 @@
       description: 支持中国大陆KYC认证的交易所
     - title: MEXC
       logo: /assets/images/logos/mexc.png
-      url: https://www.mexc.com
+      url: https://www.mexc.com/register?inviteCode=1y3oH
       description: 抹茶交易所，交易费率低
+    - title: 币安
+      logo: /assets/images/logos/mexc.png
+      url: https://accounts.binance.com/register?ref=960102593
+      description: 全球性交易所，排名第一
     
 - name: 云服务器
   icon: linecons-cloud
