@@ -60,7 +60,15 @@
     - title: 币安
       logo: /assets/images/logos/binance.png
       url: https://accounts.binance.com/register?ref=960102593
-      description: 全球性交易所，排名第一
+      description: 全球性交易所
+	- title: 海妖
+	  logo: /assets/images/logos/kraken.png
+      url: https://www.kraken.com/
+      description: 支持海外银行卡法币入金
+	- title: ByBit
+	  logo: /assets/images/logos/bybit.png
+      url: https://www.bybit.com/invite?ref=OW6DQBD
+      description: 加密货币衍生品平台
     
 - name: 云服务器
   icon: linecons-cloud
