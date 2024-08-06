@@ -70,7 +70,7 @@
       url: https://www.bybit.com/invite?ref=OW6DQBD
       description: 加密货币衍生品平台
 - name: 数字银行卡
-  icon: linecons-diamond
+  icon: linecons-wallet
   links:
     - title: IFAST
       logo: /assets/images/logos/ifast.png
