@@ -51,7 +51,7 @@
   links:
     - title: 欧易OKX
       logo: /assets/images/logos/okx.jpeg
-      url: https://www.okx.com
+      url: https://www.cnouyi.studio/join/76552000
       description: 支持中国大陆KYC认证的交易所
     - title: MEXC
       logo: /assets/images/logos/mexc.png
@@ -61,7 +61,7 @@
       logo: /assets/images/logos/binance.png
       url: https://accounts.binance.com/register?ref=960102593
       description: 全球性交易所
-    - title: 海妖
+    - title: 海妖（kraken）
       logo: /assets/images/logos/kraken.png
       url: https://www.kraken.com/
       description: 支持海外银行卡法币入金
@@ -69,9 +69,24 @@
       logo: /assets/images/logos/bybit.png
       url: https://www.bybit.com/invite?ref=OW6DQBD
       description: 加密货币衍生品平台
-
+- name: 数字银行卡
+  icon: linecons-diamond
+  links:
+    - title: IFAST
+      logo: /assets/images/logos/okx.jpeg
+      url: https://www.ifastgb.com/tellafriend/zhongjinc793
+      description: 对加密货币比较友好，可用英镑无损出入金 海妖（kraken）交易所
+    - title: OCBC
+      logo: /assets/images/logos/okx.jpeg
+      url: https://www.ocbc.com.my/personal-banking/home
+      description: 可申请实体卡，用于激活wise，入金美股券商，通过推荐码"S0GU37JB"开立银行账户并存入1,000新元或以上金额，即可获得15新元的开户奖励！
+    - title: WISE
+      logo: /assets/images/logos/okx.jpeg
+      url: https://wise.com/invite/dic/zhongjinc
+      description: 可用于资金中转，绑定微信/支付宝消费
+	  
 - name: 海外券商
-  icon: linecons-doc
+  icon: linecons-money
   links:
     - title: 盈透证券
       logo: /assets/images/logos/ibkr.png
