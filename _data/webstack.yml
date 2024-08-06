@@ -73,15 +73,15 @@
   icon: linecons-diamond
   links:
     - title: IFAST
-      logo: /assets/images/logos/okx.jpeg
+      logo: /assets/images/logos/ifast.png
       url: https://www.ifastgb.com/tellafriend/zhongjinc793
       description: 对加密货币比较友好，可用英镑无损出入金 海妖（kraken）交易所
     - title: OCBC
-      logo: /assets/images/logos/okx.jpeg
+      logo: /assets/images/logos/ocbc.png
       url: https://www.ocbc.com.my/personal-banking/home
       description: 可申请实体卡，用于激活wise，入金美股券商，通过推荐码"S0GU37JB"开立银行账户并存入1,000新元或以上金额，即可获得15新元的开户奖励！
     - title: WISE
-      logo: /assets/images/logos/okx.jpeg
+      logo: /assets/images/logos/wise.png
       url: https://wise.com/invite/dic/zhongjinc
       description: 可用于资金中转，绑定微信/支付宝消费
 
